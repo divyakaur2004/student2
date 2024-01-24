@@ -21,6 +21,7 @@ public class Student
      */
     public String getName() {
         return name;
+        //This will return name
     }
 
     /**
